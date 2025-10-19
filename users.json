@@ -1,0 +1,7 @@
+[
+  {
+    "email": "admin@gotrainy.com",
+    "password": "test123",   // для MVP можно plaintext, лучше: hash потом
+    "name": "Админ"
+  }
+]
